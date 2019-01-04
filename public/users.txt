@@ -1,0 +1,5 @@
+Name: Fox
+Phone: 123
+Date and time: 12 12 12
+Master: Gus
+Color: #51b749
